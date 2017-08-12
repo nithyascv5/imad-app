@@ -4,8 +4,8 @@ var element = document.getElementById('main-text');
 element.innerHTML='CHANGED NAME';
 
 //move images
- var img= document.getElementById('img')
- img.onclick= function()
+ var img= document.getElementById('madi')
+ madi.onclick= function()
  {
-     img.style.marginleft='100px';
+     madi.style.marginleft='100px';
  };
